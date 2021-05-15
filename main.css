@@ -62,7 +62,8 @@ form{
     display: flex;
     justify-content: space-evenly;
     background: white;
-    padding: 2rem 0;
+    padding: 3rem 0;
+    margin-top: -2rem;
 }
 
 
@@ -75,12 +76,8 @@ form{
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 3.4rem;
+    bottom: 5rem;
     margin-bottom: 2rem;
     padding: 2rem .5rem;
-    transform: translateY(-101deg);
-
-}
-.movie:hover{
 
 }
